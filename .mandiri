@@ -19,7 +19,7 @@ admin-dev/autoupgrade/
 !/cache/tcpdf/index.php
 config/xml/*.xml
 /log/*
-*sitemap.xml
+https://saung-ternak74.blogspot.com/sitemap.xml
 themes/*/cache/
 modules/*/config*.xml
 
